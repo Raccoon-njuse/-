@@ -18,6 +18,7 @@ mdc: true
 
 # 精妙还自本源来
 
+
 <div class="pt-12">
 在省常中的分享
 
@@ -30,6 +31,7 @@ transition: fade-out
 
 # 先看一道题
 
+
 <div></div>
 阅读下面的材料，根据要求写作。（60分）
 
@@ -38,19 +40,6 @@ transition: fade-out
 以上材料对我们颇具启示意义。请结合材料写一篇文章，体现你的感悟与思考。
 
 要求：选准角度，确定立意，明确文体，自拟标题；不要套作，不得抄袭；不得泄露个人信息；不少于800字。
-
-
-<style>
-h1 {
-  background-color: #2B90B6;
-  background-image: linear-gradient(45deg, #4EC5D4 10%, #146b8c 20%);
-  background-size: 100%;
-  -webkit-background-clip: text;
-  -moz-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  -moz-text-fill-color: transparent;
-}
-</style>
 
 <!--
 提问：
