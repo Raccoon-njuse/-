@@ -25,8 +25,72 @@ mdc: true
 2024.1.8
 </div>
 
+<!--
+开场白
+
+大家好，很荣幸受杜老师的邀请
+
+如果把我今天的讲稿当成一片作文，我之前一直在想，是一篇议论文还是记叙文。
+
+也就是说，是给你们讲故事，还是给你们讲道理。
+
+后来我问了一个大二的同学，我说如果你是高中，你最想知道什么
+-->
+
 ---
-transition: fade-out
+
+# 如何学好物理（误）？
+<div class="overflow-auto h-100">
+  
+![](/222.png)
+  
+</div>
+
+<!--
+可以看到其实别人的经验方法
+
+并不一定适合自己，
+
+甚至可能天差地别
+
+不要盲目模仿
+
+要能从别人身上找到自己要学习的地方
+
+所以我今天就避免讲一些抽象的，属于我自己的方法论
+
+我更多的和你们讲讲我的故事。
+
+至于你从我的故事里听到了什么，那就是每个人有每个人不同的理解。
+
+所以也希望大家多多互动交流，把你个人最希望了解的东西问出来，这个看你们的本事。
+-->
+
+---
+layout: center
+---
+
+# 免责声明
+
+<div class="pt-12 mx-0">
+<div class="mx-auto">
+今天我说的所有内容中，任何与你的老师教给你的知识有冲突的地方
+</div>
+
+<div style="color:red">
+  
+**【请务必以老师为准】**
+</div>
+
+</div>
+
+---
+layout: cover
+---
+
+# 精妙还自本源来
+
+回到这个题目
 ---
 
 # 先看一道题
@@ -53,12 +117,23 @@ transition: fade-out
 
 # 再看一篇作文
 
+
+
+<iframe class="h-110 mx-auto" src="/花宇清-精妙还自本原来.pdf" height="100%" width="100%"></iframe>
+
 <!--
 把花的作文贴上来
 -->
+---
 
-<iframe class="h-110 mx-auto" src="花宇清-精妙还自本原来.pdf" height="100%" width="100%"></iframe>
+# 思考一个道理
 
+```mermaid {theme: 'neutral', scale: 1.8}
+graph TD
+B{本} --> C{妙}
+B{本} --> D{俗}
+
+```
 
 ---
 
@@ -66,11 +141,16 @@ transition: fade-out
 
 <iframe src="//player.bilibili.com/player.html?aid=880835592&bvid=BV1wK4y167zW&cid=1395652170&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" class="w-200 h-100 mx-auto"> </iframe>
 
+<!--
+这里放和书法有关的视频
+讲述临帖与不临帖的区别
+-->
+
 ---
 
 # 再来个本地视频
 <video class="h-100 mx-auto" controls='controls'>
-  <source src="对比.mp4" type="video/mp4" />
+  <source src="/对比.mp4" type="video/mp4" />
 </video>
 
 
@@ -80,6 +160,6 @@ transition: fade-out
 
 <!--
 知识体系的构建
-
+向优秀学习
 三省吾身
 -->
